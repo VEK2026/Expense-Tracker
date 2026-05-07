@@ -19,4 +19,4 @@
 Что нужно установить на компьютер: - Python 3.10 или выше - Библиотеки: pip install matplotlib requests ---
 
 Как запустить
-git clone 
+git clone https://github.com/VEK2026/Expense-Tracker/tree/main
